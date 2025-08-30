@@ -22,4 +22,4 @@ Un script FiveM pour **ESX Legacy + ox_inventory** permettant de ranger et sorti
 - Quand tu **ranges une arme** dans `ox_inventory`, elle se place dans ton dos.
 
 ## ⚙️ Configuration
-Dans `client.lua`, ajoute les armes que tu veux gérer dans la table `weaponModels` 
+Dans `client.lua`, ajoute les armes que tu veux dans la table `weaponModels` 
